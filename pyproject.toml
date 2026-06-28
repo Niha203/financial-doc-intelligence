@@ -1,7 +1,59 @@
 [project]
 name = "financial-doc-intelligence"
 version = "0.1.0"
-description = "Add your description here"
+description = "End-to-end financial document intelligence platform"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    # Data processing - all have ARM64 wheels
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "statsmodels>=0.14.0",
+    # Database - use psycopg2 binary alternative
+    "sqlalchemy>=2.0.0",
+    "snowflake-connector-python>=3.0.0",
+    "snowflake-sqlalchemy>=1.5.0",
+    # Image processing - pillow only, opencv via WSL2
+    "pillow>=10.0.0",
+    # ML - lightgbm has ARM64 wheels, xgboost via Databricks
+    "scikit-learn>=1.3.0",
+    "lightgbm>=4.0.0",
+    "imbalanced-learn>=0.11.0",
+    # API serving
+    "fastapi>=0.100.0",
+    "uvicorn>=0.23.0",
+    "pydantic>=2.0.0",
+    # MLflow
+    "mlflow>=2.8.0",
+    # Utilities
+    "python-dotenv>=1.0.0",
+    "faker>=20.0.0",
+    "requests>=2.31.0",
+    "tqdm>=4.65.0",
+    "loguru>=0.7.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-mock>=3.11.0",
+    "pytest-asyncio>=0.21.0",
+    "ruff>=0.1.0",
+    "mypy>=1.5.0",
+    "ipykernel>=6.25.0",
+    "jupyter>=1.0.0",
+]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
