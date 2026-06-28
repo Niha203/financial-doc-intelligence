@@ -1,0 +1,26 @@
+﻿# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+
+# uv
+.uv/
