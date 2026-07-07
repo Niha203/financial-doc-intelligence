@@ -1,0 +1,1202 @@
+[
+  {
+    "invoice_id": "INV-041906",
+    "image_path": "data/raw/images/INV-041906.png",
+    "expected_fields": {
+      "vendor_name": "Garcia Group",
+      "invoice_number": "VND-0138-Ft51kz97",
+      "invoice_date": "2025-05-02",
+      "due_date": "2025-05-17",
+      "total_amount": "123925.27",
+      "vendor_id": "VND-0138"
+    }
+  },
+  {
+    "invoice_id": "INV-007297",
+    "image_path": "data/raw/images/INV-007297.png",
+    "expected_fields": {
+      "vendor_name": "Nelson, Brooks and Richardson",
+      "invoice_number": "VND-0497-dB00Wh52",
+      "invoice_date": "2025-12-18",
+      "due_date": "2026-01-17",
+      "total_amount": "17389.58",
+      "vendor_id": "VND-0497"
+    }
+  },
+  {
+    "invoice_id": "INV-001640",
+    "image_path": "data/raw/images/INV-001640.png",
+    "expected_fields": {
+      "vendor_name": "Walker, Williams and Dennis",
+      "invoice_number": "VND-0182-Sm29EZ11",
+      "invoice_date": "2024-08-28",
+      "due_date": "2024-10-12",
+      "total_amount": "112646.7",
+      "vendor_id": "VND-0182"
+    }
+  },
+  {
+    "invoice_id": "INV-048599",
+    "image_path": "data/raw/images/INV-048599.png",
+    "expected_fields": {
+      "vendor_name": "Gonzales PLC",
+      "invoice_number": "VND-0429-pa80LW08",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-03-14",
+      "total_amount": "37138.47",
+      "vendor_id": "VND-0429"
+    }
+  },
+  {
+    "invoice_id": "INV-018025",
+    "image_path": "data/raw/images/INV-018025.png",
+    "expected_fields": {
+      "vendor_name": "Griffin, Williams and Villanueva",
+      "invoice_number": "VND-0146-vj59eb28",
+      "invoice_date": "2026-06-19",
+      "due_date": "2026-08-03",
+      "total_amount": "44370.5",
+      "vendor_id": "VND-0146"
+    }
+  },
+  {
+    "invoice_id": "INV-016050",
+    "image_path": "data/raw/images/INV-016050.png",
+    "expected_fields": {
+      "vendor_name": "Phillips-Baker",
+      "invoice_number": "VND-0176-Us11ko41",
+      "invoice_date": "2026-01-17",
+      "due_date": "2026-03-03",
+      "total_amount": "144086.96",
+      "vendor_id": "VND-0176"
+    }
+  },
+  {
+    "invoice_id": "INV-014629",
+    "image_path": "data/raw/images/INV-014629.png",
+    "expected_fields": {
+      "vendor_name": "Sharp Ltd",
+      "invoice_number": "VND-0498-TZ48hx53",
+      "invoice_date": "2024-12-05",
+      "due_date": "2025-01-04",
+      "total_amount": "212547.67",
+      "vendor_id": "VND-0498"
+    }
+  },
+  {
+    "invoice_id": "INV-009145",
+    "image_path": "data/raw/images/INV-009145.png",
+    "expected_fields": {
+      "vendor_name": "Davis Group",
+      "invoice_number": "VND-0358-ad66ei41",
+      "invoice_date": "2025-05-19",
+      "due_date": "2025-06-18",
+      "total_amount": "33936.79",
+      "vendor_id": "VND-0358"
+    }
+  },
+  {
+    "invoice_id": "INV-048266",
+    "image_path": "data/raw/images/INV-048266.png",
+    "expected_fields": {
+      "vendor_name": "Garcia Ltd",
+      "invoice_number": "VND-0415-cs73Ms52",
+      "invoice_date": "2025-03-17",
+      "due_date": "2025-04-01",
+      "total_amount": "37175.35",
+      "vendor_id": "VND-0415"
+    }
+  },
+  {
+    "invoice_id": "INV-006718",
+    "image_path": "data/raw/images/INV-006718.png",
+    "expected_fields": {
+      "vendor_name": "Raymond LLC",
+      "invoice_number": "VND-0187-sm62BM34",
+      "invoice_date": "2026-04-10",
+      "due_date": "2026-04-25",
+      "total_amount": "18541.05",
+      "vendor_id": "VND-0187"
+    }
+  },
+  {
+    "invoice_id": "INV-044349",
+    "image_path": "data/raw/images/INV-044349.png",
+    "expected_fields": {
+      "vendor_name": "Jones-Miller",
+      "invoice_number": "VND-0042-tv07YL94",
+      "invoice_date": "2025-01-12",
+      "due_date": "2025-01-27",
+      "total_amount": "31357.63",
+      "vendor_id": "VND-0042"
+    }
+  },
+  {
+    "invoice_id": "INV-048541",
+    "image_path": "data/raw/images/INV-048541.png",
+    "expected_fields": {
+      "vendor_name": "Garcia Ltd",
+      "invoice_number": "VND-0378-Pk55Nf13",
+      "invoice_date": "2025-06-05",
+      "due_date": "2025-08-04",
+      "total_amount": "86637.86",
+      "vendor_id": "VND-0378"
+    }
+  },
+  {
+    "invoice_id": "INV-035742",
+    "image_path": "data/raw/images/INV-035742.png",
+    "expected_fields": {
+      "vendor_name": "Palmer, Dickerson and Sanchez",
+      "invoice_number": "VND-0437-MH10bv05",
+      "invoice_date": "2025-08-14",
+      "due_date": "2025-08-29",
+      "total_amount": "13918.87",
+      "vendor_id": "VND-0437"
+    }
+  },
+  {
+    "invoice_id": "INV-005698",
+    "image_path": "data/raw/images/INV-005698.png",
+    "expected_fields": {
+      "vendor_name": "Sanchez-Rodgers",
+      "invoice_number": "VND-0493-Du38cU00",
+      "invoice_date": "2025-05-11",
+      "due_date": "2025-07-10",
+      "total_amount": "39300.72",
+      "vendor_id": "VND-0493"
+    }
+  },
+  {
+    "invoice_id": "INV-038699",
+    "image_path": "data/raw/images/INV-038699.png",
+    "expected_fields": {
+      "vendor_name": "Yang, Willis and Walker",
+      "invoice_number": "VND-0432-cd21ba22",
+      "invoice_date": "2025-04-12",
+      "due_date": "2025-05-27",
+      "total_amount": "8826.81",
+      "vendor_id": "VND-0432"
+    }
+  },
+  {
+    "invoice_id": "INV-027652",
+    "image_path": "data/raw/images/INV-027652.png",
+    "expected_fields": {
+      "vendor_name": "Gonzales PLC",
+      "invoice_number": "VND-0429-eU97Qr49",
+      "invoice_date": "2024-08-17",
+      "due_date": "2024-09-01",
+      "total_amount": "34973.99",
+      "vendor_id": "VND-0429"
+    }
+  },
+  {
+    "invoice_id": "INV-002083",
+    "image_path": "data/raw/images/INV-002083.png",
+    "expected_fields": {
+      "vendor_name": "Johnson-Williams",
+      "invoice_number": "VND-0481-mC18IQ49",
+      "invoice_date": "2025-04-07",
+      "due_date": "2025-05-22",
+      "total_amount": "7000.73",
+      "vendor_id": "VND-0481"
+    }
+  },
+  {
+    "invoice_id": "INV-001953",
+    "image_path": "data/raw/images/INV-001953.png",
+    "expected_fields": {
+      "vendor_name": "Jones Ltd",
+      "invoice_number": "VND-0048-tG09fv59",
+      "invoice_date": "2024-07-14",
+      "due_date": "2024-08-13",
+      "total_amount": "19545.15",
+      "vendor_id": "VND-0048"
+    }
+  },
+  {
+    "invoice_id": "INV-006141",
+    "image_path": "data/raw/images/INV-006141.png",
+    "expected_fields": {
+      "vendor_name": "Reyes LLC",
+      "invoice_number": "VND-0213-yo27wv14",
+      "invoice_date": "2026-01-27",
+      "due_date": "2026-02-11",
+      "total_amount": "106514.43",
+      "vendor_id": "VND-0213"
+    }
+  },
+  {
+    "invoice_id": "INV-014329",
+    "image_path": "data/raw/images/INV-014329.png",
+    "expected_fields": {
+      "vendor_name": "Wilson, Becker and Moreno",
+      "invoice_number": "VND-0129-zX96pp53",
+      "invoice_date": "2026-02-20",
+      "due_date": "2026-03-07",
+      "total_amount": "75828.11",
+      "vendor_id": "VND-0129"
+    }
+  },
+  {
+    "invoice_id": "INV-015248",
+    "image_path": "data/raw/images/INV-015248.png",
+    "expected_fields": {
+      "vendor_name": "Carter-Neal",
+      "invoice_number": "VND-0090-Bk22lK63",
+      "invoice_date": "2024-08-16",
+      "due_date": "2024-09-15",
+      "total_amount": "50673.83",
+      "vendor_id": "VND-0090"
+    }
+  },
+  {
+    "invoice_id": "INV-033119",
+    "image_path": "data/raw/images/INV-033119.png",
+    "expected_fields": {
+      "vendor_name": "Robinson-Campbell",
+      "invoice_number": "VND-0212-ma65mq14",
+      "invoice_date": "2025-02-09",
+      "due_date": "2025-04-10",
+      "total_amount": "6118.77",
+      "vendor_id": "VND-0212"
+    }
+  },
+  {
+    "invoice_id": "INV-039454",
+    "image_path": "data/raw/images/INV-039454.png",
+    "expected_fields": {
+      "vendor_name": "Burton Ltd",
+      "invoice_number": "VND-0365-mQ56py55",
+      "invoice_date": "2025-01-11",
+      "due_date": "2025-02-10",
+      "total_amount": "69954.26",
+      "vendor_id": "VND-0365"
+    }
+  },
+  {
+    "invoice_id": "INV-001740",
+    "image_path": "data/raw/images/INV-001740.png",
+    "expected_fields": {
+      "vendor_name": "Arroyo PLC",
+      "invoice_number": "VND-0488-bi11ac65",
+      "invoice_date": "2026-05-29",
+      "due_date": "2026-06-13",
+      "total_amount": "13087.15",
+      "vendor_id": "VND-0488"
+    }
+  },
+  {
+    "invoice_id": "INV-036782",
+    "image_path": "data/raw/images/INV-036782.png",
+    "expected_fields": {
+      "vendor_name": "Garcia Group",
+      "invoice_number": "VND-0138-vX55vN87",
+      "invoice_date": "2024-11-03",
+      "due_date": "2024-11-18",
+      "total_amount": "15902.95",
+      "vendor_id": "VND-0138"
+    }
+  },
+  {
+    "invoice_id": "INV-013032",
+    "image_path": "data/raw/images/INV-013032.png",
+    "expected_fields": {
+      "vendor_name": "Gonzalez LLC",
+      "invoice_number": "VND-0291-Sx49cf45",
+      "invoice_date": "2025-01-14",
+      "due_date": "2025-01-29",
+      "total_amount": "101477.13",
+      "vendor_id": "VND-0291"
+    }
+  },
+  {
+    "invoice_id": "INV-046926",
+    "image_path": "data/raw/images/INV-046926.png",
+    "expected_fields": {
+      "vendor_name": "Colon Ltd",
+      "invoice_number": "VND-0484-MI73cF27",
+      "invoice_date": "2024-07-14",
+      "due_date": "2024-08-13",
+      "total_amount": "41207.08",
+      "vendor_id": "VND-0484"
+    }
+  },
+  {
+    "invoice_id": "INV-042591",
+    "image_path": "data/raw/images/INV-042591.png",
+    "expected_fields": {
+      "vendor_name": "Wagner Group",
+      "invoice_number": "VND-0137-lD10aa38",
+      "invoice_date": "2025-06-24",
+      "due_date": "2025-08-23",
+      "total_amount": "318975.88",
+      "vendor_id": "VND-0137"
+    }
+  },
+  {
+    "invoice_id": "INV-045963",
+    "image_path": "data/raw/images/INV-045963.png",
+    "expected_fields": {
+      "vendor_name": "Lewis-Miller",
+      "invoice_number": "VND-0274-Wn73FE00",
+      "invoice_date": "2024-11-27",
+      "due_date": "2025-01-26",
+      "total_amount": "20419.93",
+      "vendor_id": "VND-0274"
+    }
+  },
+  {
+    "invoice_id": "INV-035714",
+    "image_path": "data/raw/images/INV-035714.png",
+    "expected_fields": {
+      "vendor_name": "Dorsey, Reyes and Dunn",
+      "invoice_number": "VND-0347-Xd20tM90",
+      "invoice_date": "2024-10-04",
+      "due_date": "2024-11-18",
+      "total_amount": "22772.4",
+      "vendor_id": "VND-0347"
+    }
+  },
+  {
+    "invoice_id": "INV-027494",
+    "image_path": "data/raw/images/INV-027494.png",
+    "expected_fields": {
+      "vendor_name": "Owens LLC",
+      "invoice_number": "VND-0399-vs13hc84",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-02-22",
+      "total_amount": "8172.84",
+      "vendor_id": "VND-0399"
+    }
+  },
+  {
+    "invoice_id": "INV-014447",
+    "image_path": "data/raw/images/INV-014447.png",
+    "expected_fields": {
+      "vendor_name": "Cisneros, Whitehead and Lane",
+      "invoice_number": "VND-0223-VJ22KU92",
+      "invoice_date": "2024-10-26",
+      "due_date": "2024-11-10",
+      "total_amount": "26027.97",
+      "vendor_id": "VND-0223"
+    }
+  },
+  {
+    "invoice_id": "INV-029440",
+    "image_path": "data/raw/images/INV-029440.png",
+    "expected_fields": {
+      "vendor_name": "Lloyd, Liu and Kaufman",
+      "invoice_number": "VND-0271-oq77sp29",
+      "invoice_date": "2024-09-08",
+      "due_date": "2024-10-08",
+      "total_amount": "25050.79",
+      "vendor_id": "VND-0271"
+    }
+  },
+  {
+    "invoice_id": "INV-038619",
+    "image_path": "data/raw/images/INV-038619.png",
+    "expected_fields": {
+      "vendor_name": "Lucero, Sanchez and Perez",
+      "invoice_number": "VND-0475-Ij67FQ26",
+      "invoice_date": "2024-08-20",
+      "due_date": "2024-10-19",
+      "total_amount": "39444.63",
+      "vendor_id": "VND-0475"
+    }
+  },
+  {
+    "invoice_id": "INV-018232",
+    "image_path": "data/raw/images/INV-018232.png",
+    "expected_fields": {
+      "vendor_name": "Garcia-Knapp",
+      "invoice_number": "VND-0472-RL14qK46",
+      "invoice_date": "2025-02-21",
+      "due_date": "2025-03-23",
+      "total_amount": "28823.02",
+      "vendor_id": "VND-0472"
+    }
+  },
+  {
+    "invoice_id": "INV-000426",
+    "image_path": "data/raw/images/INV-000426.png",
+    "expected_fields": {
+      "vendor_name": "Jones Ltd",
+      "invoice_number": "VND-0048-PJ90es87",
+      "invoice_date": "2024-09-20",
+      "due_date": "2024-10-20",
+      "total_amount": "19569.55",
+      "vendor_id": "VND-0048"
+    }
+  },
+  {
+    "invoice_id": "INV-049730",
+    "image_path": "data/raw/images/INV-049730.png",
+    "expected_fields": {
+      "vendor_name": "Kennedy, Valdez and Stafford",
+      "invoice_number": "VND-0234-aK94zY35",
+      "invoice_date": "2025-02-27",
+      "due_date": "2025-03-29",
+      "total_amount": "203151.5",
+      "vendor_id": "VND-0234"
+    }
+  },
+  {
+    "invoice_id": "INV-010464",
+    "image_path": "data/raw/images/INV-010464.png",
+    "expected_fields": {
+      "vendor_name": "Thomas-Lewis",
+      "invoice_number": "VND-0357-vn50dR14",
+      "invoice_date": "2026-06-26",
+      "due_date": "2026-08-25",
+      "total_amount": "25491.29",
+      "vendor_id": "VND-0357"
+    }
+  },
+  {
+    "invoice_id": "INV-045754",
+    "image_path": "data/raw/images/INV-045754.png",
+    "expected_fields": {
+      "vendor_name": "Jones, Wright and Stephens",
+      "invoice_number": "VND-0395-yH20gC49",
+      "invoice_date": "2025-11-08",
+      "due_date": "2025-12-08",
+      "total_amount": "85525.59",
+      "vendor_id": "VND-0395"
+    }
+  },
+  {
+    "invoice_id": "INV-027697",
+    "image_path": "data/raw/images/INV-027697.png",
+    "expected_fields": {
+      "vendor_name": "Mathews, Perez and Love",
+      "invoice_number": "VND-0448-Fa02IX35",
+      "invoice_date": "2026-05-16",
+      "due_date": "2026-05-31",
+      "total_amount": "1198.64",
+      "vendor_id": "VND-0448"
+    }
+  },
+  {
+    "invoice_id": "INV-022299",
+    "image_path": "data/raw/images/INV-022299.png",
+    "expected_fields": {
+      "vendor_name": "Hamilton Ltd",
+      "invoice_number": "VND-0460-Rk96fk83",
+      "invoice_date": "2025-05-02",
+      "due_date": "2025-05-17",
+      "total_amount": "2160.0",
+      "vendor_id": "VND-0460"
+    }
+  },
+  {
+    "invoice_id": "INV-018211",
+    "image_path": "data/raw/images/INV-018211.png",
+    "expected_fields": {
+      "vendor_name": "Thompson Inc",
+      "invoice_number": "VND-0041-yx29As29",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-03-24",
+      "total_amount": "8901.36",
+      "vendor_id": "VND-0041"
+    }
+  },
+  {
+    "invoice_id": "INV-010190",
+    "image_path": "data/raw/images/INV-010190.png",
+    "expected_fields": {
+      "vendor_name": "James, Barton and Phillips",
+      "invoice_number": "VND-0087-gz43CA73",
+      "invoice_date": "2026-05-09",
+      "due_date": "2026-07-08",
+      "total_amount": "12160.53",
+      "vendor_id": "VND-0087"
+    }
+  },
+  {
+    "invoice_id": "INV-014111",
+    "image_path": "data/raw/images/INV-014111.png",
+    "expected_fields": {
+      "vendor_name": "Rodriguez Inc",
+      "invoice_number": "VND-0199-QQ22Sx45",
+      "invoice_date": "2026-05-06",
+      "due_date": "2026-06-20",
+      "total_amount": "63188.89",
+      "vendor_id": "VND-0199"
+    }
+  },
+  {
+    "invoice_id": "INV-022060",
+    "image_path": "data/raw/images/INV-022060.png",
+    "expected_fields": {
+      "vendor_name": "Travis, Jacobs and Lopez",
+      "invoice_number": "VND-0499-XT44tk97",
+      "invoice_date": "2025-07-04",
+      "due_date": "2025-07-19",
+      "total_amount": "33945.64",
+      "vendor_id": "VND-0499"
+    }
+  },
+  {
+    "invoice_id": "INV-006699",
+    "image_path": "data/raw/images/INV-006699.png",
+    "expected_fields": {
+      "vendor_name": "Lane LLC",
+      "invoice_number": "VND-0022-wo53mI34",
+      "invoice_date": "2025-07-08",
+      "due_date": "2025-09-06",
+      "total_amount": "238712.44",
+      "vendor_id": "VND-0022"
+    }
+  },
+  {
+    "invoice_id": "INV-006079",
+    "image_path": "data/raw/images/INV-006079.png",
+    "expected_fields": {
+      "vendor_name": "Brown-Hughes",
+      "invoice_number": "VND-0298-uB54yo56",
+      "invoice_date": "2026-03-01",
+      "due_date": "2026-04-30",
+      "total_amount": "5514.46",
+      "vendor_id": "VND-0298"
+    }
+  },
+  {
+    "invoice_id": "INV-024899",
+    "image_path": "data/raw/images/INV-024899.png",
+    "expected_fields": {
+      "vendor_name": "Short PLC",
+      "invoice_number": "VND-0384-Xd27jV28",
+      "invoice_date": "2025-10-17",
+      "due_date": "2025-11-01",
+      "total_amount": "24707.3",
+      "vendor_id": "VND-0384"
+    }
+  },
+  {
+    "invoice_id": "INV-006339",
+    "image_path": "data/raw/images/INV-006339.png",
+    "expected_fields": {
+      "vendor_name": "Brock-Taylor",
+      "invoice_number": "VND-0382-GW77Jh53",
+      "invoice_date": "2024-12-28",
+      "due_date": "2025-01-12",
+      "total_amount": "23598.28",
+      "vendor_id": "VND-0382"
+    }
+  },
+  {
+    "invoice_id": "INV-023527",
+    "image_path": "data/raw/images/INV-023527.png",
+    "expected_fields": {
+      "vendor_name": "Moses, Bailey and Williamson",
+      "invoice_number": "VND-0388-sw10PI77",
+      "invoice_date": "2025-06-24",
+      "due_date": "2025-08-08",
+      "total_amount": "72749.46",
+      "vendor_id": "VND-0388"
+    }
+  },
+  {
+    "invoice_id": "INV-022542",
+    "image_path": "data/raw/images/INV-022542.png",
+    "expected_fields": {
+      "vendor_name": "Williams, Smith and Morse",
+      "invoice_number": "VND-0047-GP42pp79",
+      "invoice_date": "2025-01-04",
+      "due_date": "2025-02-03",
+      "total_amount": "73071.42",
+      "vendor_id": "VND-0047"
+    }
+  },
+  {
+    "invoice_id": "INV-039566",
+    "image_path": "data/raw/images/INV-039566.png",
+    "expected_fields": {
+      "vendor_name": "Bird, Peterson and Stevens",
+      "invoice_number": "VND-0282-GK78ud03",
+      "invoice_date": "2025-01-09",
+      "due_date": "2025-01-24",
+      "total_amount": "76884.01",
+      "vendor_id": "VND-0282"
+    }
+  },
+  {
+    "invoice_id": "INV-017336",
+    "image_path": "data/raw/images/INV-017336.png",
+    "expected_fields": {
+      "vendor_name": "Eaton, Butler and Aguirre",
+      "invoice_number": "VND-0219-Am39yD62",
+      "invoice_date": "2025-03-11",
+      "due_date": "2025-04-10",
+      "total_amount": "23821.93",
+      "vendor_id": "VND-0219"
+    }
+  },
+  {
+    "invoice_id": "INV-002848",
+    "image_path": "data/raw/images/INV-002848.png",
+    "expected_fields": {
+      "vendor_name": "Koch-Decker",
+      "invoice_number": "VND-0006-LT94Wh41",
+      "invoice_date": "2024-10-29",
+      "due_date": "2024-11-13",
+      "total_amount": "60911.11",
+      "vendor_id": "VND-0006"
+    }
+  },
+  {
+    "invoice_id": "INV-047824",
+    "image_path": "data/raw/images/INV-047824.png",
+    "expected_fields": {
+      "vendor_name": "Gonzalez Inc",
+      "invoice_number": "VND-0474-JW49Of73",
+      "invoice_date": "2024-12-03",
+      "due_date": "2025-02-01",
+      "total_amount": "40680.37",
+      "vendor_id": "VND-0474"
+    }
+  },
+  {
+    "invoice_id": "INV-030109",
+    "image_path": "data/raw/images/INV-030109.png",
+    "expected_fields": {
+      "vendor_name": "Mueller, Knight and Hodge",
+      "invoice_number": "VND-0085-Bo10wy01",
+      "invoice_date": "2025-08-10",
+      "due_date": "2025-10-09",
+      "total_amount": "14096.94",
+      "vendor_id": "VND-0085"
+    }
+  },
+  {
+    "invoice_id": "INV-035143",
+    "image_path": "data/raw/images/INV-035143.png",
+    "expected_fields": {
+      "vendor_name": "Fernandez-Martin",
+      "invoice_number": "VND-0230-NK18fn65",
+      "invoice_date": "2024-07-15",
+      "due_date": "2024-08-29",
+      "total_amount": "66152.48",
+      "vendor_id": "VND-0230"
+    }
+  },
+  {
+    "invoice_id": "INV-008181",
+    "image_path": "data/raw/images/INV-008181.png",
+    "expected_fields": {
+      "vendor_name": "Phillips-Baker",
+      "invoice_number": "VND-0176-If40BG29",
+      "invoice_date": "2024-11-20",
+      "due_date": "2025-01-04",
+      "total_amount": "21838.87",
+      "vendor_id": "VND-0176"
+    }
+  },
+  {
+    "invoice_id": "INV-024808",
+    "image_path": "data/raw/images/INV-024808.png",
+    "expected_fields": {
+      "vendor_name": "Cross-Woodward",
+      "invoice_number": "VND-0193-tM42CL20",
+      "invoice_date": "2026-02-15",
+      "due_date": "2026-03-02",
+      "total_amount": "38732.59",
+      "vendor_id": "VND-0193"
+    }
+  },
+  {
+    "invoice_id": "INV-005165",
+    "image_path": "data/raw/images/INV-005165.png",
+    "expected_fields": {
+      "vendor_name": "Holmes, Le and Floyd",
+      "invoice_number": "VND-0166-nW69xg41",
+      "invoice_date": "2025-04-18",
+      "due_date": "2025-06-17",
+      "total_amount": "93473.23",
+      "vendor_id": "VND-0166"
+    }
+  },
+  {
+    "invoice_id": "INV-036179",
+    "image_path": "data/raw/images/INV-036179.png",
+    "expected_fields": {
+      "vendor_name": "Gallegos, Herman and Bailey",
+      "invoice_number": "VND-0161-An41BS13",
+      "invoice_date": "2026-01-12",
+      "due_date": "2026-02-26",
+      "total_amount": "37717.46",
+      "vendor_id": "VND-0161"
+    }
+  },
+  {
+    "invoice_id": "INV-019214",
+    "image_path": "data/raw/images/INV-019214.png",
+    "expected_fields": {
+      "vendor_name": "Wilson-Reeves",
+      "invoice_number": "VND-0255-pD35fU49",
+      "invoice_date": "2024-08-04",
+      "due_date": "2024-10-03",
+      "total_amount": "97760.38",
+      "vendor_id": "VND-0255"
+    }
+  },
+  {
+    "invoice_id": "INV-041199",
+    "image_path": "data/raw/images/INV-041199.png",
+    "expected_fields": {
+      "vendor_name": "Caldwell-Bailey",
+      "invoice_number": "VND-0356-Vt81As86",
+      "invoice_date": "2024-12-18",
+      "due_date": "2025-01-02",
+      "total_amount": "7797.51",
+      "vendor_id": "VND-0356"
+    }
+  },
+  {
+    "invoice_id": "INV-040536",
+    "image_path": "data/raw/images/INV-040536.png",
+    "expected_fields": {
+      "vendor_name": "Hernandez-Vaughn",
+      "invoice_number": "VND-0069-fT28mV88",
+      "invoice_date": "2026-01-23",
+      "due_date": "2026-02-22",
+      "total_amount": "17692.24",
+      "vendor_id": "VND-0069"
+    }
+  },
+  {
+    "invoice_id": "INV-023701",
+    "image_path": "data/raw/images/INV-023701.png",
+    "expected_fields": {
+      "vendor_name": "Patrick Inc",
+      "invoice_number": "VND-0093-bl14TG28",
+      "invoice_date": "2025-02-16",
+      "due_date": "2025-04-02",
+      "total_amount": "76152.52",
+      "vendor_id": "VND-0093"
+    }
+  },
+  {
+    "invoice_id": "INV-037838",
+    "image_path": "data/raw/images/INV-037838.png",
+    "expected_fields": {
+      "vendor_name": "Castro-Jones",
+      "invoice_number": "VND-0403-HG55JC33",
+      "invoice_date": "2025-05-31",
+      "due_date": "2025-07-15",
+      "total_amount": "8082.64",
+      "vendor_id": "VND-0403"
+    }
+  },
+  {
+    "invoice_id": "INV-012602",
+    "image_path": "data/raw/images/INV-012602.png",
+    "expected_fields": {
+      "vendor_name": "Johnson-Wiggins",
+      "invoice_number": "VND-0462-DX61RM35",
+      "invoice_date": "2025-08-31",
+      "due_date": "2025-09-15",
+      "total_amount": "25455.22",
+      "vendor_id": "VND-0462"
+    }
+  },
+  {
+    "invoice_id": "INV-046175",
+    "image_path": "data/raw/images/INV-046175.png",
+    "expected_fields": {
+      "vendor_name": "Leonard-Castillo",
+      "invoice_number": "VND-0433-QK32PB26",
+      "invoice_date": "2026-03-11",
+      "due_date": "2026-04-25",
+      "total_amount": "94710.25",
+      "vendor_id": "VND-0433"
+    }
+  },
+  {
+    "invoice_id": "INV-004559",
+    "image_path": "data/raw/images/INV-004559.png",
+    "expected_fields": {
+      "vendor_name": "Moon Ltd",
+      "invoice_number": "VND-0252-RB84wB39",
+      "invoice_date": "2024-10-12",
+      "due_date": "2024-10-27",
+      "total_amount": "41544.72",
+      "vendor_id": "VND-0252"
+    }
+  },
+  {
+    "invoice_id": "INV-003004",
+    "image_path": "data/raw/images/INV-003004.png",
+    "expected_fields": {
+      "vendor_name": "Robles, Mcconnell and Pittman",
+      "invoice_number": "VND-0286-Rw85AM18",
+      "invoice_date": "2025-06-09",
+      "due_date": "2025-08-08",
+      "total_amount": "25559.18",
+      "vendor_id": "VND-0286"
+    }
+  },
+  {
+    "invoice_id": "INV-043337",
+    "image_path": "data/raw/images/INV-043337.png",
+    "expected_fields": {
+      "vendor_name": "Jimenez-Harris",
+      "invoice_number": "VND-0307-WN76qS97",
+      "invoice_date": "2026-04-21",
+      "due_date": "2026-05-21",
+      "total_amount": "28891.2",
+      "vendor_id": "VND-0307"
+    }
+  },
+  {
+    "invoice_id": "INV-014936",
+    "image_path": "data/raw/images/INV-014936.png",
+    "expected_fields": {
+      "vendor_name": "Spencer-Gallegos",
+      "invoice_number": "VND-0350-DP70lb89",
+      "invoice_date": "2025-12-21",
+      "due_date": "2026-01-20",
+      "total_amount": "48031.11",
+      "vendor_id": "VND-0350"
+    }
+  },
+  {
+    "invoice_id": "INV-018966",
+    "image_path": "data/raw/images/INV-018966.png",
+    "expected_fields": {
+      "vendor_name": "Thompson-Boyd",
+      "invoice_number": "VND-0023-Wl42uC81",
+      "invoice_date": "2025-10-31",
+      "due_date": "2025-11-30",
+      "total_amount": "20247.8",
+      "vendor_id": "VND-0023"
+    }
+  },
+  {
+    "invoice_id": "INV-005230",
+    "image_path": "data/raw/images/INV-005230.png",
+    "expected_fields": {
+      "vendor_name": "Pittman PLC",
+      "invoice_number": "VND-0128-yv60pK15",
+      "invoice_date": "2024-08-18",
+      "due_date": "2024-10-17",
+      "total_amount": "34224.14",
+      "vendor_id": "VND-0128"
+    }
+  },
+  {
+    "invoice_id": "INV-015257",
+    "image_path": "data/raw/images/INV-015257.png",
+    "expected_fields": {
+      "vendor_name": "Koch-Decker",
+      "invoice_number": "VND-0006-Rs05sY74",
+      "invoice_date": "2025-01-11",
+      "due_date": "2025-01-26",
+      "total_amount": "44292.39",
+      "vendor_id": "VND-0006"
+    }
+  },
+  {
+    "invoice_id": "INV-006620",
+    "image_path": "data/raw/images/INV-006620.png",
+    "expected_fields": {
+      "vendor_name": "Anderson, Fox and Henderson",
+      "invoice_number": "VND-0164-no87nc99",
+      "invoice_date": "2025-12-14",
+      "due_date": "2025-12-29",
+      "total_amount": "4472.06",
+      "vendor_id": "VND-0164"
+    }
+  },
+  {
+    "invoice_id": "INV-024912",
+    "image_path": "data/raw/images/INV-024912.png",
+    "expected_fields": {
+      "vendor_name": "Ellis-Lawrence",
+      "invoice_number": "VND-0140-JJ74HA53",
+      "invoice_date": "2024-10-20",
+      "due_date": "2024-11-04",
+      "total_amount": "13891.02",
+      "vendor_id": "VND-0140"
+    }
+  },
+  {
+    "invoice_id": "INV-018218",
+    "image_path": "data/raw/images/INV-018218.png",
+    "expected_fields": {
+      "vendor_name": "Hall Group",
+      "invoice_number": "VND-0156-oz13Ss85",
+      "invoice_date": "2024-08-17",
+      "due_date": "2024-10-01",
+      "total_amount": "2388.58",
+      "vendor_id": "VND-0156"
+    }
+  },
+  {
+    "invoice_id": "INV-029715",
+    "image_path": "data/raw/images/INV-029715.png",
+    "expected_fields": {
+      "vendor_name": "Nixon-Vega",
+      "invoice_number": "VND-0211-Xx14RY07",
+      "invoice_date": "2025-11-03",
+      "due_date": "2025-12-18",
+      "total_amount": "10791.23",
+      "vendor_id": "VND-0211"
+    }
+  },
+  {
+    "invoice_id": "INV-041661",
+    "image_path": "data/raw/images/INV-041661.png",
+    "expected_fields": {
+      "vendor_name": "Bennett, Stone and Schaefer",
+      "invoice_number": "VND-0471-Li50wp39",
+      "invoice_date": "2026-04-26",
+      "due_date": "2026-05-11",
+      "total_amount": "107260.47",
+      "vendor_id": "VND-0471"
+    }
+  },
+  {
+    "invoice_id": "INV-023910",
+    "image_path": "data/raw/images/INV-023910.png",
+    "expected_fields": {
+      "vendor_name": "Lin-Barnes",
+      "invoice_number": "VND-0065-CQ98Ay16",
+      "invoice_date": "2024-12-16",
+      "due_date": "2025-02-14",
+      "total_amount": "84991.59",
+      "vendor_id": "VND-0065"
+    }
+  },
+  {
+    "invoice_id": "INV-010660",
+    "image_path": "data/raw/images/INV-010660.png",
+    "expected_fields": {
+      "vendor_name": "Hall, Hinton and Phillips",
+      "invoice_number": "VND-0134-lA35Vf78",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-14",
+      "total_amount": "96875.38",
+      "vendor_id": "VND-0134"
+    }
+  },
+  {
+    "invoice_id": "INV-024261",
+    "image_path": "data/raw/images/INV-024261.png",
+    "expected_fields": {
+      "vendor_name": "Hicks, Adkins and Phillips",
+      "invoice_number": "VND-0103-Jw50CY73",
+      "invoice_date": "2024-11-22",
+      "due_date": "2025-01-06",
+      "total_amount": "2844.49",
+      "vendor_id": "VND-0103"
+    }
+  },
+  {
+    "invoice_id": "INV-023284",
+    "image_path": "data/raw/images/INV-023284.png",
+    "expected_fields": {
+      "vendor_name": "Salas and Sons",
+      "invoice_number": "VND-0163-Ug85dl63",
+      "invoice_date": "2024-07-06",
+      "due_date": "2024-07-21",
+      "total_amount": "20642.1",
+      "vendor_id": "VND-0163"
+    }
+  },
+  {
+    "invoice_id": "INV-013731",
+    "image_path": "data/raw/images/INV-013731.png",
+    "expected_fields": {
+      "vendor_name": "Lin-Barnes",
+      "invoice_number": "VND-0065-dV18Lz61",
+      "invoice_date": "2025-05-21",
+      "due_date": "2025-07-20",
+      "total_amount": "5012.45",
+      "vendor_id": "VND-0065"
+    }
+  },
+  {
+    "invoice_id": "INV-043921",
+    "image_path": "data/raw/images/INV-043921.png",
+    "expected_fields": {
+      "vendor_name": "Ellis-Lawrence",
+      "invoice_number": "VND-0140-PR62Jk55",
+      "invoice_date": "2024-12-15",
+      "due_date": "2024-12-30",
+      "total_amount": "50455.19",
+      "vendor_id": "VND-0140"
+    }
+  },
+  {
+    "invoice_id": "INV-017497",
+    "image_path": "data/raw/images/INV-017497.png",
+    "expected_fields": {
+      "vendor_name": "Ponce, Roberts and Sosa",
+      "invoice_number": "VND-0339-nz09gb40",
+      "invoice_date": "2025-07-20",
+      "due_date": "2025-08-04",
+      "total_amount": "92219.53",
+      "vendor_id": "VND-0339"
+    }
+  },
+  {
+    "invoice_id": "INV-045995",
+    "image_path": "data/raw/images/INV-045995.png",
+    "expected_fields": {
+      "vendor_name": "Johnson-Nicholson",
+      "invoice_number": "VND-0391-sj47vF73",
+      "invoice_date": "2025-05-27",
+      "due_date": "2025-06-26",
+      "total_amount": "18551.52",
+      "vendor_id": "VND-0391"
+    }
+  },
+  {
+    "invoice_id": "INV-044797",
+    "image_path": "data/raw/images/INV-044797.png",
+    "expected_fields": {
+      "vendor_name": "Lee-Davis",
+      "invoice_number": "VND-0008-CM94mG18",
+      "invoice_date": "2026-03-13",
+      "due_date": "2026-05-12",
+      "total_amount": "27569.04",
+      "vendor_id": "VND-0008"
+    }
+  },
+  {
+    "invoice_id": "INV-042470",
+    "image_path": "data/raw/images/INV-042470.png",
+    "expected_fields": {
+      "vendor_name": "Pittman PLC",
+      "invoice_number": "VND-0128-rg43qS86",
+      "invoice_date": "2024-10-04",
+      "due_date": "2024-12-03",
+      "total_amount": "134342.07",
+      "vendor_id": "VND-0128"
+    }
+  },
+  {
+    "invoice_id": "INV-004680",
+    "image_path": "data/raw/images/INV-004680.png",
+    "expected_fields": {
+      "vendor_name": "Lin-Barnes",
+      "invoice_number": "VND-0065-oh25uI30",
+      "invoice_date": "2025-10-08",
+      "due_date": "2025-12-07",
+      "total_amount": "11146.45",
+      "vendor_id": "VND-0065"
+    }
+  },
+  {
+    "invoice_id": "INV-039921",
+    "image_path": "data/raw/images/INV-039921.png",
+    "expected_fields": {
+      "vendor_name": "Walker LLC",
+      "invoice_number": "VND-0345-gN32WT29",
+      "invoice_date": "2025-11-13",
+      "due_date": "2025-12-28",
+      "total_amount": "10333.38",
+      "vendor_id": "VND-0345"
+    }
+  },
+  {
+    "invoice_id": "INV-041614",
+    "image_path": "data/raw/images/INV-041614.png",
+    "expected_fields": {
+      "vendor_name": "Davis Group",
+      "invoice_number": "VND-0358-mV69Kx98",
+      "invoice_date": "2025-02-23",
+      "due_date": "2025-03-25",
+      "total_amount": "7681.25",
+      "vendor_id": "VND-0358"
+    }
+  },
+  {
+    "invoice_id": "INV-011216",
+    "image_path": "data/raw/images/INV-011216.png",
+    "expected_fields": {
+      "vendor_name": "White, Knapp and Sanchez",
+      "invoice_number": "VND-0259-AI85mW37",
+      "invoice_date": "2025-07-09",
+      "due_date": "2025-07-24",
+      "total_amount": "13390.09",
+      "vendor_id": "VND-0259"
+    }
+  },
+  {
+    "invoice_id": "INV-035006",
+    "image_path": "data/raw/images/INV-035006.png",
+    "expected_fields": {
+      "vendor_name": "Duran PLC",
+      "invoice_number": "VND-0218-fe98HV33",
+      "invoice_date": "2026-03-26",
+      "due_date": "2026-05-10",
+      "total_amount": "10824.12",
+      "vendor_id": "VND-0218"
+    }
+  },
+  {
+    "invoice_id": "INV-047785",
+    "image_path": "data/raw/images/INV-047785.png",
+    "expected_fields": {
+      "vendor_name": "Watts, Meyers and Galvan",
+      "invoice_number": "VND-0495-df61LQ47",
+      "invoice_date": "2024-09-13",
+      "due_date": "2024-10-28",
+      "total_amount": "216036.07",
+      "vendor_id": "VND-0495"
+    }
+  },
+  {
+    "invoice_id": "INV-016044",
+    "image_path": "data/raw/images/INV-016044.png",
+    "expected_fields": {
+      "vendor_name": "Watts, Meyers and Galvan",
+      "invoice_number": "VND-0495-zW83KJ18",
+      "invoice_date": "2024-11-10",
+      "due_date": "2024-12-25",
+      "total_amount": "89620.34",
+      "vendor_id": "VND-0495"
+    }
+  },
+  {
+    "invoice_id": "INV-010709",
+    "image_path": "data/raw/images/INV-010709.png",
+    "expected_fields": {
+      "vendor_name": "Hudson-Fowler",
+      "invoice_number": "VND-0447-fq98Xk87",
+      "invoice_date": "2025-03-23",
+      "due_date": "2025-04-07",
+      "total_amount": "97706.09",
+      "vendor_id": "VND-0447"
+    }
+  },
+  {
+    "invoice_id": "INV-030295",
+    "image_path": "data/raw/images/INV-030295.png",
+    "expected_fields": {
+      "vendor_name": "Gonzalez LLC",
+      "invoice_number": "VND-0291-lm42Lb29",
+      "invoice_date": "2025-04-28",
+      "due_date": "2025-05-13",
+      "total_amount": "10518.04",
+      "vendor_id": "VND-0291"
+    }
+  },
+  {
+    "invoice_id": "INV-024868",
+    "image_path": "data/raw/images/INV-024868.png",
+    "expected_fields": {
+      "vendor_name": "Thompson Inc",
+      "invoice_number": "VND-0041-jS18Ib60",
+      "invoice_date": "2025-06-13",
+      "due_date": "2025-07-28",
+      "total_amount": "19975.4",
+      "vendor_id": "VND-0041"
+    }
+  }
+]

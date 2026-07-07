@@ -1,28 +1,35 @@
-﻿# Virtual environment
-venv/
+﻿# Virtual environments
 .venv/
+venv/
+.venv-linux/
 
-# Secrets
+# Environment variables
 .env
 
-# Python cache
+# Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 .pytest_cache/
+.ipynb_checkpoints/
 
-# Data files (too large for git)
+# Type checking / linting
+.mypy_cache/
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# uv
+.uv/
+
+# Generated data
 data/raw/
 data/processed/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
 # VS Code
 .vscode/settings.json
-
-# uv
-.uv/
-.venv/
-.venv-linux/

@@ -7,7 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     # Data processing - all have ARM64 wheels
     "pandas>=2.0.0",
-    "numpy>=1.24.0",
+    "numpy<2",
     "scipy>=1.10.0",
     "statsmodels>=0.14.0",
     # Database - use psycopg2 binary alternative
@@ -32,6 +32,9 @@ dependencies = [
     "requests>=2.31.0",
     "tqdm>=4.65.0",
     "loguru>=0.7.0",
+    "langgraph>=1.2.8",
+    "anthropic>=0.116.0",
+    "easyocr>=1.7.2",
 ]
 
 [dependency-groups]
